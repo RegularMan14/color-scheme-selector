@@ -1,0 +1,30 @@
+.button {
+    border: 1px solid white;
+    padding-left: 50px;
+    padding-top: 35px;
+    margin: 15px;
+}
+
+#gray {
+    background-color: gray;
+}
+
+#white {
+    background-color: white;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#purple {
+    background-color: purple;
+}
+
+body {
+    text-align: center;
+}
